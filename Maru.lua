@@ -1,1 +1,1 @@
-game.LocalPlayer.Players:kick("มันไม่มีจริงควาย")
+game.Players.LocalPlayer:kick("มันไม่มีจริงควาย")
